@@ -1,0 +1,23 @@
+body {
+    background-color: #04e234; /* Use any color code or color name you prefer */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+img {
+    display: block;
+    margin: 0 auto; /* This centers the image horizontally */
+    max-width: 80%;
+}
